@@ -1,9 +1,9 @@
 //declare test dimensions
 //col1 must equal row2 for multiplication to be valid
-int row1 = 5;
-int col1 = 5; 
-int row2 = 5;
-int col2 = 5;
+int row1 = 4;
+int col1 = 3; 
+int row2 = 3;
+int col2 = 4;
 
 int func1(int x, int y){return x ^ y;}
 int func2(int x, int y){return x & y + x | y;}
